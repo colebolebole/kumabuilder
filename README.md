@@ -8,6 +8,4 @@ Prerequisites are
 
 Node.js >= 14
 
-Git
-
 pm2 - For running in background
