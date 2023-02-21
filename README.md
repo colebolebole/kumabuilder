@@ -7,6 +7,7 @@ all credits go to: https://github.com/louislam/uptime-kuma
 
 ---
 Prerequisites are
+(To build) git
 
 Node.js >= 14
 
