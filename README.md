@@ -1,5 +1,6 @@
 # kumabuilder (formerly ezkuma)
 is an open source easy to use script that builds a uptime kuma instance!
+note if the main uptime kuma repo goes down, or gets compromised. i have setup a backup one here: https://github.com/colebolebole/kumabuilder-backup.git
 
 
 all credits go to: https://github.com/louislam/uptime-kuma
