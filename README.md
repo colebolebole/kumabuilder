@@ -1,15 +1,10 @@
-# ezkuma
-The easy way to run uptime kuma!
-
----
-# NOW DEPERECATED!
-
-
-(LINUX LTS IS IN THE WORKS! taking longer than usual)
+# kumabuilder (formerly ezkuma)
+is an open source, easy to use uptime kuma builder, works on windows (linux coming soon!)
 
 all credits go to: https://github.com/louislam/uptime-kuma
 
 ---
+
 Prerequisites are
 
 (To build) git
