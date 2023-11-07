@@ -1,11 +1,6 @@
-# ezkuma
-The easy way to run uptime kuma!
+# kumabuilder (formerly ezkuma)
+is an open source easy to use script that builds a uptime kuma instance!
 
----
-# NOW DEPERECATED!
-
-
-(LINUX LTS IS IN THE WORKS! taking longer than usual)
 
 all credits go to: https://github.com/louislam/uptime-kuma
 
