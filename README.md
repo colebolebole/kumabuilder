@@ -10,4 +10,4 @@ Prerequisites are
 
 Node.js >= 14
 
-pm2(optional) - For running in background
+pm2(optional) - For running uptime kuma in the background
